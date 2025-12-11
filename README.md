@@ -9,7 +9,8 @@ I have fully removed lines that were only used for debbuging before submitting t
 The calculator FULLY supports PEMDAS:
 -It checks for order of priority after every operation
 -It checks if there are parentheses inside larger ones, and performs calculations in the inner parentheses first
--It supports long equations as long as they use any of the following operators: ( ) ^ * / + -
+-It supports long equations as long as they use any of the following operators: 
+( ) ^ * / + -
 
 ## What does it not do?
 
